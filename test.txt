@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1asdf
 2
 3
@@ -6,3 +7,7 @@
 6
 7
 8
+=======
+asdf
+asdf j'ai ajouté ceci sur le site, et ça va faire un conflit
+>>>>>>> origin/master
