@@ -1,2 +1,2 @@
 # Tutorial
-Repo for testing how github works.
+Repo for testing how git, github and git clients works.
